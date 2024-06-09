@@ -13,12 +13,4 @@
   #input-box{
     border-radius: 60px;
   }
-  #todo-container {
-    background: rgb(41, 33, 33);
-    width: 400px;
-    margin: 0 auto;
-    border: 2px solid #0033ff;
-    padding: 20px;
-    color: white;
-    border-radius: 15px;
-  }
+  

@@ -1,0 +1,24 @@
+.completed {
+    text-decoration: line-through;
+    color: gray;
+    border: 1px solid gray;
+  }
+  body { 
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,0.028124999999999956) 0%, rgba(253,187,45,1) 100%);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  #input-box{
+    border-radius: 60px;
+  }
+  #todo-container {
+    background: rgb(41, 33, 33);
+    width: 400px;
+    margin: 0 auto;
+    border: 2px solid #0033ff;
+    padding: 20px;
+    color: white;
+    border-radius: 15px;
+  }
